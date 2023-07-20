@@ -23,7 +23,7 @@ function App() {
               </a>
               <div className="d-flex align-items-center">
                 <button type="button" className="btn btn-link px-3 me-2"> <Link to="/login">Log IN</Link></button>
-                <button type="button" className="btn btn-primary me-3"><Link to="/signin">Sign IN</Link></button>
+                <button type="button" className="btn btn-primary mb1 me-3"><Link to="/signin">Sign Up</Link></button>
               </div>
             </div>
           </nav>
